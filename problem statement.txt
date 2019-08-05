@@ -1,0 +1,6 @@
+A man start from 0 0 position . First turn he walk to the right for 10 units then walks upward for 20 units.
+Then he took a left turn and walked for 30 units . Then walks downward for 40 units. And again, he took a right turn and walk for 50 units.
+Similarly with each turn the distance/unit walked will increase by 10 units. 
+
+Input = number of turns (eg:3)
+Output = coordinates (eg: -20 20)
